@@ -15,8 +15,10 @@ UnPack = "0.1"
 ["0.5-0"]
 ArgCheck = "1-2"
 StaticArrays = "1"
-UnPack = ["0.1", "1"]
 julia = "1.2.0-1"
+
+["0.5-0.11.0"]
+UnPack = ["0.1", "1"]
 
 ["0.8-0"]
 DocStringExtensions = "0.8-0.9"
